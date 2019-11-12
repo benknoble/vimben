@@ -1,0 +1,27 @@
+[submodule "opt/zelda"]
+	path = opt/zelda
+	url = https://github.com/benknoble/zelda-vim.git
+[submodule "start/gitignore"]
+	path = start/gitignore
+	url = https://github.com/benknoble/gitignore-vim.git
+[submodule "start/invader"]
+	path = start/invader
+	url = https://github.com/benknoble/invader-vim.git
+[submodule "start/requirements"]
+	path = start/requirements
+	url = https://github.com/benknoble/requirements.txt.vim.git
+[submodule "start/auto-origami"]
+	path = start/auto-origami
+	url = https://github.com/benknoble/vim-auto-origami
+[submodule "start/plink"]
+	path = start/plink
+	url = https://github.com/benknoble/vim-plink.git
+[submodule "start/scala"]
+	path = start/scala
+	url = https://github.com/benknoble/vim-scala.git
+[submodule "start/synstax"]
+	path = start/synstax
+	url = https://github.com/benknoble/vim-synstax.git
+[submodule "start/tmplr"]
+	path = start/tmplr
+	url = https://github.com/benknoble/vim-tmplr.git
