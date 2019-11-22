@@ -25,3 +25,6 @@
 [submodule "start/tmplr"]
 	path = start/tmplr
 	url = https://github.com/benknoble/vim-tmplr.git
+[submodule "start/sexp"]
+	path = start/sexp
+	url = https://github.com/benknoble/vim-sexp
