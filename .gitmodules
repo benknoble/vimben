@@ -28,3 +28,6 @@
 [submodule "start/sexp"]
 	path = start/sexp
 	url = https://github.com/benknoble/vim-sexp
+[submodule "start/hex"]
+	path = start/hex
+	url = https://github.com/benknoble/vim-hex
