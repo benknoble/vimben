@@ -34,3 +34,6 @@
 [submodule "start/sort"]
 	path = start/sort
 	url = https://github.com/benknoble/vimsort
+[submodule "start/simpl"]
+	path = start/simpl
+	url = https://github.com/benknoble/vim-simpl
