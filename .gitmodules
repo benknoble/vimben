@@ -37,3 +37,6 @@
 [submodule "start/simpl"]
 	path = start/simpl
 	url = https://github.com/benknoble/vim-simpl
+[submodule "start/pbcopy"]
+	path = start/pbcopy
+	url = https://github.com/benknoble/vimpbcopy
