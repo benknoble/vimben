@@ -17,13 +17,13 @@
 	path = start/plink
 	url = https://github.com/benknoble/vim-plink.git
 [submodule "start/scala"]
-	path = start/scala
+	path = opt/scala
 	url = https://github.com/benknoble/vim-scala.git
 [submodule "start/synstax"]
 	path = start/synstax
 	url = https://github.com/benknoble/vim-synstax.git
 [submodule "start/tmplr"]
-	path = start/tmplr
+	path = opt/tmplr
 	url = https://github.com/benknoble/vim-tmplr.git
 [submodule "start/sexp"]
 	path = start/sexp
