@@ -40,3 +40,6 @@
 [submodule "start/pbcopy"]
 	path = start/pbcopy
 	url = https://github.com/benknoble/vimpbcopy
+[submodule "start/wiki-md"]
+	path = start/wiki-md
+	url = https://github.com/benknoble/wiki-md
