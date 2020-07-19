@@ -43,3 +43,6 @@
 [submodule "start/wiki-md"]
 	path = start/wiki-md
 	url = https://github.com/benknoble/wiki-md
+[submodule "start/popsikey"]
+	path = start/popsikey
+	url = https://github.com/benknoble/popsikey
