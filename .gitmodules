@@ -46,3 +46,6 @@
 [submodule "start/popsikey"]
 	path = start/popsikey
 	url = https://github.com/benknoble/popsikey
+[submodule "opt/rust-doc"]
+	path = opt/rust-doc
+	url = https://github.com/benknoble/rust-doc
