@@ -49,3 +49,6 @@
 [submodule "opt/rust-doc"]
 	path = opt/rust-doc
 	url = https://github.com/benknoble/rust-doc
+[submodule "opt/dafny"]
+	path = opt/dafny
+	url = https://github.com/benknoble/vim-dafny
