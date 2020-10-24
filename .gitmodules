@@ -52,3 +52,6 @@
 [submodule "opt/dafny"]
 	path = opt/dafny
 	url = https://github.com/benknoble/vim-dafny
+[submodule "start/mips"]
+	path = start/mips
+	url = https://github.com/benknoble/vim-mips
