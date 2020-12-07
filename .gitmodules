@@ -58,3 +58,6 @@
 [submodule "opt/scribble"]
 	path = opt/scribble
 	url = https://github.com/benknoble/scribble.vim
+[submodule "opt/racket"]
+	path = opt/racket
+	url = https://github.com/benknoble/vim-racket
