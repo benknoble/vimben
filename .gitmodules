@@ -55,3 +55,6 @@
 [submodule "start/mips"]
 	path = start/mips
 	url = https://github.com/benknoble/vim-mips
+[submodule "opt/scribble"]
+	path = opt/scribble
+	url = https://github.com/benknoble/scribble.vim
