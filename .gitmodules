@@ -66,4 +66,4 @@
 	url = https://github.com/benknoble/tag-tracks
 [submodule "opt/pollen"]
 	path = opt/pollen
-	url = github:benknoble/vim-pollen
+	url = https://github.com/benknoble/vim-pollen
