@@ -22,9 +22,6 @@
 [submodule "start/synstax"]
 	path = start/synstax
 	url = https://github.com/benknoble/vim-synstax.git
-[submodule "start/tmplr"]
-	path = opt/tmplr
-	url = https://github.com/benknoble/vim-tmplr.git
 [submodule "start/sexp"]
 	path = start/sexp
 	url = https://github.com/benknoble/vim-sexp
