@@ -61,9 +61,6 @@
 [submodule "tag-tracks"]
 	path = start/tag-tracks
 	url = https://github.com/benknoble/tag-tracks
-[submodule "opt/pollen"]
-	path = opt/pollen
-	url = https://github.com/benknoble/vim-pollen
 [submodule "opt/dwarffortress"]
 	path = opt/dwarffortress
 	url = https://github.com/benknoble/dwarffortress.vim
